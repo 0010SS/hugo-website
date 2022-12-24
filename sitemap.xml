@@ -4,14 +4,21 @@
   
   <url>
     <loc>/hugo-website/post/</loc>
-    <lastmod>2022-12-23T11:00:59-04:00</lastmod>
+    <lastmod>2022-12-24T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>/hugo-website/</loc>
-    <lastmod>2022-12-23T11:00:59-04:00</lastmod>
+    <lastmod>2022-12-24T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>/hugo-website/post/chapter-3/</loc>
+    <lastmod>2022-12-24T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -19,13 +26,6 @@
   <url>
     <loc>/hugo-website/post/chapter-2/</loc>
     <lastmod>2022-12-23T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>/hugo-website/post/chapter-3/</loc>
-    <lastmod>2022-12-22T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
