@@ -1,5 +1,7 @@
 ---
-title: "Ananke: a Hugo Theme"
-description: "The last theme you'll ever need. Maybe."
+title: "Happy Christmas 2022!"
+description: "Let's go through my version of our journey..."
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Choose the **About** section to see a brief introduction to this site.
+Choose the **Articles** section to see the articles written.
+Choose the **Tree** section to see the christmas tree for you.
