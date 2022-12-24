@@ -43,19 +43,7 @@
   </url>
   
   <url>
-    <loc>/hugo-website/tags/scene/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>/hugo-website/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>/hugo-website/post/chapter-1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
