@@ -34,3 +34,6 @@ enableRobotsTXT = true
   featured_image = ""
   recent_posts_number = 1
   body_classes = "avenir bg-white"
+
+[markup.goldmark.renderer]
+  unsafe = true
