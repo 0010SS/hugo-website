@@ -1,90 +1,59 @@
 ---
-date: 2017-04-10T11:00:59-04:00
-description: "Pierre Gringoire"
+date: 2022-12-23T11:00:59-04:00
+description: "续"
 featured_image: ""
 tags: []
-title: "Chapter II: Pierre Gringoire"
+title: "二、续"
 ---
 
-Nevertheless, as be harangued them, the satisfaction and admiration
-unanimously excited by his costume were dissipated by his words; and when
-he reached that untoward conclusion: “As soon as his illustrious eminence,
-the cardinal, arrives, we will begin,” his voice was drowned in a thunder
-of hooting.
+“难道我的喜欢已经无法掩藏到这种地步了吗？”
 
-“Begin instantly! The mystery! the mystery immediately!” shrieked the
-people. And above all the voices, that of Johannes de Molendino was
-audible, piercing the uproar like the fife’s derisive serenade: “Commence
-instantly!” yelped the scholar.
+我便不掩盖了，大声向homie们说着对你的喜欢，也不在意之前说过的什么谈不谈恋爱的鬼话了。
+他们的支持仿佛给予了我信心。
+记得当时大家的第一反应都是，“我支持你。儿子终于长大了”。可能这就是男生之间的恶趣味吧。
 
-“Down with Jupiter and the Cardinal de Bourbon!” vociferated Robin
-Poussepain and the other clerks perched in the window.
+那段时间的我好似中邪了，
+有那么一段时间，常常脑里想的都是你。
+我觉察到不对，觉得这种状态在马上到来的EOS+竞赛前是致命的，
+主观地想要强迫自己走出这种状态。
 
-“The morality this very instant!” repeated the crowd; “this very instant!
-the sack and the rope for the comedians, and the cardinal!”
+但是失败了。
 
-Poor Jupiter, haggard, frightened, pale beneath his rouge, dropped his
-thunderbolt, took his cap in his hand; then he bowed and trembled and
-stammered: “His eminence—the ambassadors—Madame Marguerite of
-Flanders—.” He did not know what to say. In truth, he was afraid of
-being hung.
+索性也就放任思绪飘扬在波涛汹涌的海洋里，把思绪化成动力赋能自己。
 
-Hung by the populace for waiting, hung by the cardinal for not having
-waited, he saw between the two dilemmas only an abyss; that is to say, a
-gallows.
+记得恰好赶上了physics project，我就天天在林志恒的耳边叨念：
 
-Luckily, some one came to rescue him from his embarrassment, and assume
-the responsibility.
+“怎么追美术生啊。”
 
-An individual who was standing beyond the railing, in the free space
-around the marble table, and whom no one had yet caught sight of, since
-his long, thin body was completely sheltered from every visual ray by the
-diameter of the pillar against which he was leaning; this individual, we
-say, tall, gaunt, pallid, blond, still young, although already wrinkled
-about the brow and cheeks, with brilliant eyes and a smiling mouth, clad
-in garments of black serge, worn and shining with age, approached the
-marble table, and made a sign to the poor sufferer. But the other was so
-confused that he did not see him. The new comer advanced another step.
+他就笑笑不说话，每次都一脸玩味的看着我。
+我也不嫌尴尬，一直在他的耳边重复。
+直到后来，我说出了上半句，他都能接到下半句了。
 
-“Jupiter,” said he, “my dear Jupiter!”
+但是我一直在克制着找你聊天的欲望。
+我怕打扰到你，也怕太主动会消耗掉你对我的好感。
+有时候，点开了聊天框，犹豫的双手又点到了。
+于是，就有了微信聊天日期里那一个个浅灰色的阿拉伯数字。
 
-The other did not hear.
+浅灰色的笔慢慢写下了新的一个“1”，12月到了。
 
-At last, the tall blond, driven out of patience, shrieked almost in his
-face,—
+你早早的就给自己的头像戴上了圣诞帽。
+我本也打算作此，但是心里的某一只小恶魔突然跳了出来，问我：
+“她会不会帮你画一个呢。”
+我便停下了手中的动作，退出了微信的设置页面。
+静静地，忐忑地。
+我害怕自己失望，但是内心又抱着一丝丝期望。
 
-“Michel Giborne!”
+幸运的是，有一天，浅灰色笔被你换成了黑色的，而随之而来的也是两只带着圣诞帽的白大鹅。
+但我却更加纠结了。
+那一只带着和你圣诞帽的鹅仿佛在说：
+“过来吧，和她选一样的吧。”
+但另外一只鹅却在怒视着我：
+“你选和她一样的，她会不会不乐意啊，你会不会太舔了啊。”
 
-“Who calls me?” said Jupiter, as though awakened with a start.
+但第一只鹅如同有魔力一般，把我的手指吸近了它。
+我也就随它而去了。
 
-“I,” replied the person clad in black.
+“嗯，这样算和她拉近一些距离了吧。” 我惊喜道。
 
-“Ah!” said Jupiter.
-
-“Begin at once,” went on the other. “Satisfy the populace; I undertake to
-appease the bailiff, who will appease monsieur the cardinal.”
-
-Jupiter breathed once more.
-
-“Messeigneurs the bourgeois,” he cried, at the top of his lungs to the
-crowd, which continued to hoot him, “we are going to begin at once.”
-
-“_Evoe Jupiter! Plaudite cives_! All hail, Jupiter! Applaud,
-citizens!” shouted the scholars.
-
-“Noel! Noel! good, good,” shouted the people.
-
-The hand clapping was deafening, and Jupiter had already withdrawn under
-his tapestry, while the hall still trembled with acclamations.
-
-In the meanwhile, the personage who had so magically turned the tempest
-into dead calm, as our old and dear Corneille puts it, had modestly
-retreated to the half-shadow of his pillar, and would, no doubt, have
-remained invisible there, motionless, and mute as before, had he not been
-plucked by the sleeve by two young women, who, standing in the front row
-of the spectators, had noticed his colloquy with Michel Giborne-Jupiter.
-
-“Master,” said one of them, making him a sign to approach. “Hold your
-tongue, my dear Liénarde,” said her neighbor, pretty, fresh, and very
-brave, in consequence of being dressed up in her best attire. “He is not a
-clerk, he is a layman; you must not say master to him, but messire.”
+殊不知，更大的惊喜正悄然而来。
+<未完待续>
