@@ -1,81 +1,70 @@
 ---
-date: 2017-04-09T10:58:08-04:00
-description: "The Grand Hall"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+date: 2022-12-2410:58:08-04:00
+description: "元初"
 tags: ["scene"]
-title: "Chapter I: The Grand Hall"
+title: "一、元初"
 ---
 
-Three hundred and forty-eight years, six months, and nineteen days ago
-to-day, the Parisians awoke to the sound of all the bells in the triple
-circuit of the city, the university, and the town ringing a full peal.
+* 忆情始 
 
-The sixth of January, 1482, is not, however, a day of which history has
-preserved the memory. There was nothing notable in the event which thus
-set the bells and the bourgeois of Paris in a ferment from early morning.
-It was neither an assault by the Picards nor the Burgundians, nor a hunt
-led along in procession, nor a revolt of scholars in the town of Laas, nor
-an entry of “our much dread lord, monsieur the king,” nor even a pretty
-hanging of male and female thieves by the courts of Paris. Neither was it
-the arrival, so frequent in the fifteenth century, of some plumed and
-bedizened embassy. It was barely two days since the last cavalcade of that
-nature, that of the Flemish ambassadors charged with concluding the
-marriage between the dauphin and Marguerite of Flanders, had made its
-entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,
-who, for the sake of pleasing the king, had been obliged to assume an
-amiable mien towards this whole rustic rabble of Flemish burgomasters, and
-to regale them at his Hôtel de Bourbon, with a very “pretty morality,
-allegorical satire, and farce,” while a driving rain drenched the
-magnificent tapestries at his door.
+那是我第一次遇到这样聊天的人：
+ 句句回复，充满了鼓励。
+  什么事情都能对得上，无论闲聊还是学术。
 
-What put the “whole population of Paris in commotion,” as Jehan de Troyes
-expresses it, on the sixth of January, was the double solemnity, united
-from time immemorial, of the Epiphany and the Feast of Fools.
+和你聊天有趣也轻松，
+加上你那自带的学霸光芒，
+让我对这曾来自曼谷的好朋友充满了好感。
 
-On that day, there was to be a bonfire on the Place de Grève, a maypole at
-the Chapelle de Braque, and a mystery at the Palais de Justice. It had
-been cried, to the sound of the trumpet, the preceding evening at all the
-cross roads, by the provost’s men, clad in handsome, short, sleeveless
-coats of violet camelot, with large white crosses upon their breasts.
+但我那时并没有恋爱的想法。
+记得十月份如往常一般去wood common room吃饭，
+我还大言不惭的和homie说：
+“我G2绝对不会谈恋爱。”
 
-So the crowd of citizens, male and female, having closed their houses and
-shops, thronged from every direction, at early morn, towards some one of
-the three spots designated.
+但，我食言了。
+还记得万圣节那天晚上你问我，说我是什么时候喜欢上你的。
+我说，
+“十一月十三号”
 
-Each had made his choice; one, the bonfire; another, the maypole; another,
-the mystery play. It must be stated, in honor of the good sense of the
-loungers of Paris, that the greater part of this crowd directed their
-steps towards the bonfire, which was quite in season, or towards the
-mystery play, which was to be presented in the grand hall of the Palais de
-Justice (the courts of law), which was well roofed and walled; and that
-the curious left the poor, scantily flowered maypole to shiver all alone
-beneath the sky of January, in the cemetery of the Chapel of Braque.
+那天我们闲聊到之后发病完，你问我我想去做什么项目。
+以为你只是礼貌性地询问，但没想到介绍完迎来的确实你长篇的回复。
+有夸奖，有看法，亦有项目中存在的不足。
+我最缺的就是对于不足的批判，而你当时的回复便一下震撼到我了。
+在印象中，你是一个充实的人，我也时常羡慕你的时间管理，感叹你曾经做过的无数事情。
+像这样充实的人，竟闲下心仔细地认真地帮助我想要把那项目变得更好，我应该如何做才好？
+这是我当时的第一想法。
 
-The populace thronged the avenues of the law courts in particular, because
-they knew that the Flemish ambassadors, who had arrived two days
-previously, intended to be present at the representation of the mystery,
-and at the election of the Pope of the Fools, which was also to take place
-in the grand hall.
+而后，脑袋一晃。
+我意识到了，
+我 喜欢你。
 
-It was no easy matter on that day, to force one’s way into that grand
-hall, although it was then reputed to be the largest covered enclosure in
-the world (it is true that Sauval had not yet measured the grand hall of
-the Château of Montargis). The palace place, encumbered with people,
-offered to the curious gazers at the windows the aspect of a sea; into
-which five or six streets, like so many mouths of rivers, discharged every
-moment fresh floods of heads. The waves of this crowd, augmented
-incessantly, dashed against the angles of the houses which projected here
-and there, like so many promontories, into the irregular basin of the
-place. In the centre of the lofty Gothic* façade of the palace, the grand
-staircase, incessantly ascended and descended by a double current, which,
-after parting on the intermediate landing-place, flowed in broad waves
-along its lateral slopes,—the grand staircase, I say, trickled
-incessantly into the place, like a cascade into a lake. The cries, the
-laughter, the trampling of those thousands of feet, produced a great noise
-and a great clamor. From time to time, this noise and clamor redoubled;
-the current which drove the crowd towards the grand staircase flowed
-backwards, became troubled, formed whirlpools. This was produced by the
-buffet of an archer, or the horse of one of the provost’s sergeants, which
-kicked to restore order; an admirable tradition which the provostship has
-bequeathed to the constablery, the constablery to the _maréchaussée_,
-the _maréchaussée_ to our _gendarmeri_ of Paris.
+当然，喜欢并不是这么一句话的事情，也不可能只因为一个刹那而过的念头而喜欢上一个人。
+喜欢是日久以来的各种因素堆积而成的。
+但，从那一刻起，我发现 我喜欢上了一个女孩，她叫sophia。
+（我不想在这里用太多形容词 - 因为我喜欢上的并不是那些形容词，而是你这个人
+
+从那以后，
+每当我没有动力去学习的时候，我就想，再不学习就追不上你咯，然后立马有变得好学了；
+每当躺在被窝里刷着手机不想起来，我就想，我一定要变的优秀才能进入她的法眼吧，然后就充满了动力。
+
+我忍不住开始幻想我们的未来。
+好的，我又发现自己食言了。
+曾经说过中学时期的恋爱基本都是短暂的，大多都是一群被荷尔蒙刺激的少年少女们短暂的满足。
+但是现在我觉得，u are the right one。
+
+记得有一次你说 你欣赏我。
+我当时以为自己被friendzone了，心情起伏以至于内耗。
+因为“欣赏”之前在梅沙是被人用来拒绝人用的…
+忍不住跟homie们抱怨了几句，就立马被开始追问。
+“你不会喜欢上谁了吧？”
+我没承认，但是说了我对你有好感。
+但是我的谎言立马就被揭穿了。
+那几天遇到朋友们的第一句话，都是被问：“喜欢你就承认吧，别怂。”
+
+_“难道我的喜欢已经无法掩藏到这种地步了吗”？…_
+<未完待续>
+
+
+**少年追光的路漫漫而修远，虽然光是暖的但是路途却崎岖黑暗；
+可在那大路上，有个同样在向前奔跑但却散发着光芒的女孩靠近了他的身旁。
+谁又能说，
+那女孩不是路途最后的那盏光呢？**
