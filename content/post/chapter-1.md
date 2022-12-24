@@ -1,70 +1,90 @@
 ---
-date: 2022-12-24T10:58:08-04:00
-description: "元初"
+date: 2017-04-10T11:00:59-04:00
+description: "Pierre Gringoire"
+featured_image: ""
 tags: []
-title: "一、元初"
+title: "Chapter II: Pierre Gringoire"
 ---
 
-* 忆情始 
+Nevertheless, as be harangued them, the satisfaction and admiration
+unanimously excited by his costume were dissipated by his words; and when
+he reached that untoward conclusion: “As soon as his illustrious eminence,
+the cardinal, arrives, we will begin,” his voice was drowned in a thunder
+of hooting.
 
-那是我第一次遇到这样聊天的人：
- 句句回复，充满了鼓励。
-  什么事情都能对得上，无论闲聊还是学术。
+“Begin instantly! The mystery! the mystery immediately!” shrieked the
+people. And above all the voices, that of Johannes de Molendino was
+audible, piercing the uproar like the fife’s derisive serenade: “Commence
+instantly!” yelped the scholar.
 
-和你聊天有趣也轻松，
-加上你那自带的学霸光芒，
-让我对这曾来自曼谷的好朋友充满了好感。
+“Down with Jupiter and the Cardinal de Bourbon!” vociferated Robin
+Poussepain and the other clerks perched in the window.
 
-但我那时并没有恋爱的想法。
-记得十月份如往常一般去wood common room吃饭，
-我还大言不惭的和homie说：
-“我G2绝对不会谈恋爱。”
+“The morality this very instant!” repeated the crowd; “this very instant!
+the sack and the rope for the comedians, and the cardinal!”
 
-但，我食言了。
-还记得万圣节那天晚上你问我，说我是什么时候喜欢上你的。
-我说，
-“十一月十三号”
+Poor Jupiter, haggard, frightened, pale beneath his rouge, dropped his
+thunderbolt, took his cap in his hand; then he bowed and trembled and
+stammered: “His eminence—the ambassadors—Madame Marguerite of
+Flanders—.” He did not know what to say. In truth, he was afraid of
+being hung.
 
-那天我们闲聊到之后发病完，你问我我想去做什么项目。
-以为你只是礼貌性地询问，但没想到介绍完迎来的确实你长篇的回复。
-有夸奖，有看法，亦有项目中存在的不足。
-我最缺的就是对于不足的批判，而你当时的回复便一下震撼到我了。
-在印象中，你是一个充实的人，我也时常羡慕你的时间管理，感叹你曾经做过的无数事情。
-像这样充实的人，竟闲下心仔细地认真地帮助我想要把那项目变得更好，我应该如何做才好？
-这是我当时的第一想法。
+Hung by the populace for waiting, hung by the cardinal for not having
+waited, he saw between the two dilemmas only an abyss; that is to say, a
+gallows.
 
-而后，脑袋一晃。
-我意识到了，
-我 喜欢你。
+Luckily, some one came to rescue him from his embarrassment, and assume
+the responsibility.
 
-当然，喜欢并不是这么一句话的事情，也不可能只因为一个刹那而过的念头而喜欢上一个人。
-喜欢是日久以来的各种因素堆积而成的。
-但，从那一刻起，我发现 我喜欢上了一个女孩，她叫sophia。
-（我不想在这里用太多形容词 - 因为我喜欢上的并不是那些形容词，而是你这个人
+An individual who was standing beyond the railing, in the free space
+around the marble table, and whom no one had yet caught sight of, since
+his long, thin body was completely sheltered from every visual ray by the
+diameter of the pillar against which he was leaning; this individual, we
+say, tall, gaunt, pallid, blond, still young, although already wrinkled
+about the brow and cheeks, with brilliant eyes and a smiling mouth, clad
+in garments of black serge, worn and shining with age, approached the
+marble table, and made a sign to the poor sufferer. But the other was so
+confused that he did not see him. The new comer advanced another step.
 
-从那以后，
-每当我没有动力去学习的时候，我就想，再不学习就追不上你咯，然后立马有变得好学了；
-每当躺在被窝里刷着手机不想起来，我就想，我一定要变的优秀才能进入她的法眼吧，然后就充满了动力。
+“Jupiter,” said he, “my dear Jupiter!”
 
-我忍不住开始幻想我们的未来。
-好的，我又发现自己食言了。
-曾经说过中学时期的恋爱基本都是短暂的，大多都是一群被荷尔蒙刺激的少年少女们短暂的满足。
-但是现在我觉得，u are the right one。
+The other did not hear.
 
-记得有一次你说 你欣赏我。
-我当时以为自己被friendzone了，心情起伏以至于内耗。
-因为“欣赏”之前在梅沙是被人用来拒绝人用的…
-忍不住跟homie们抱怨了几句，就立马被开始追问。
-“你不会喜欢上谁了吧？”
-我没承认，但是说了我对你有好感。
-但是我的谎言立马就被揭穿了。
-那几天遇到朋友们的第一句话，都是被问：“喜欢你就承认吧，别怂。”
+At last, the tall blond, driven out of patience, shrieked almost in his
+face,—
 
-_“难道我的喜欢已经无法掩藏到这种地步了吗”？…_
-<未完待续>
+“Michel Giborne!”
 
+“Who calls me?” said Jupiter, as though awakened with a start.
 
-**少年追光的路漫漫而修远，虽然光是暖的但是路途却崎岖黑暗；
-可在那大路上，有个同样在向前奔跑但却散发着光芒的女孩靠近了他的身旁。
-谁又能说，
-那女孩不是路途最后的那盏光呢？**
+“I,” replied the person clad in black.
+
+“Ah!” said Jupiter.
+
+“Begin at once,” went on the other. “Satisfy the populace; I undertake to
+appease the bailiff, who will appease monsieur the cardinal.”
+
+Jupiter breathed once more.
+
+“Messeigneurs the bourgeois,” he cried, at the top of his lungs to the
+crowd, which continued to hoot him, “we are going to begin at once.”
+
+“_Evoe Jupiter! Plaudite cives_! All hail, Jupiter! Applaud,
+citizens!” shouted the scholars.
+
+“Noel! Noel! good, good,” shouted the people.
+
+The hand clapping was deafening, and Jupiter had already withdrawn under
+his tapestry, while the hall still trembled with acclamations.
+
+In the meanwhile, the personage who had so magically turned the tempest
+into dead calm, as our old and dear Corneille puts it, had modestly
+retreated to the half-shadow of his pillar, and would, no doubt, have
+remained invisible there, motionless, and mute as before, had he not been
+plucked by the sleeve by two young women, who, standing in the front row
+of the spectators, had noticed his colloquy with Michel Giborne-Jupiter.
+
+“Master,” said one of them, making him a sign to approach. “Hold your
+tongue, my dear Liénarde,” said her neighbor, pretty, fresh, and very
+brave, in consequence of being dressed up in her best attire. “He is not a
+clerk, he is a layman; you must not say master to him, but messire.”
